@@ -28,10 +28,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
+| [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 ## Greedy
 |  |
 | ------- |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
+| [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 ## Sorting
 |  |
 | ------- |
@@ -40,4 +42,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
+## Sliding Window
+|  |
+| ------- |
+| [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 <!---LeetCode Topics End-->
