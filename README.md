@@ -52,4 +52,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
+## Stack
+|  |
+| ------- |
+| [0937-online-stock-span](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/0937-online-stock-span) |
+## Design
+|  |
+| ------- |
+| [0937-online-stock-span](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/0937-online-stock-span) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0937-online-stock-span](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/0937-online-stock-span) |
+## Data Stream
+|  |
+| ------- |
+| [0937-online-stock-span](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/0937-online-stock-span) |
 <!---LeetCode Topics End-->
