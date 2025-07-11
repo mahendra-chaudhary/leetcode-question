@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0143-reorder-list](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/0143-reorder-list) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 ## Simulation
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0143-reorder-list](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/0143-reorder-list) |
 | [0937-online-stock-span](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/0937-online-stock-span) |
 ## Design
 |  |
@@ -76,4 +78,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2479-meeting-rooms-iii](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/2479-meeting-rooms-iii) |
+## Linked List
+|  |
+| ------- |
+| [0143-reorder-list](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/0143-reorder-list) |
+## Two Pointers
+|  |
+| ------- |
+| [0143-reorder-list](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/0143-reorder-list) |
 <!---LeetCode Topics End-->
