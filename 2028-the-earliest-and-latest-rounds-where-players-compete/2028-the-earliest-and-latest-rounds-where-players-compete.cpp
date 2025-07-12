@@ -1,78 +1,59 @@
 class Solution {
 public:
-    unordered_map<string, pair<int, int>> memo;
-
-    pair<int, int> dfs(vector<int>& players, int f, int s, int round) {
-        int n = players.size();
-        for (int i = 0; i < n / 2; ++i) {
-            int a = players[i], b = players[n - 1 - i];
-            if ((a == f && b == s) || (a == s && b == f))
-                return {round, round};
-        }
-
-        string key = encode(players);
-        if (memo.count(key)) return memo[key];
-
-        vector<vector<int>> nextStates;
-        generate(players, f, s, 0, n - 1, {}, nextStates);
-
-        int mn = INT_MAX, mx = INT_MIN;
-        for (auto& next : nextStates) {
-            sort(next.begin(), next.end());
-            auto res = dfs(next, f, s, round + 1);
-            mn = min(mn, res.first);
-            mx = max(mx, res.second);
-        }
-        return memo[key] = {mn, mx};
-    }
-
-    void generate(vector<int>& players, int f, int s, int l, int r, vector<int> cur, vector<vector<int>>& nexts) {
-        if (l > r) {
-            nexts.push_back(cur);
-            return;
-        }
-        if (l == r) {
-            cur.push_back(players[l]);
-            nexts.push_back(cur);
-            return;
-        }
-
-        int a = players[l], b = players[r];
-        if ((a == f && b == s) || (a == s && b == f)) return;
-
-        if (a == f || a == s) {
-            cur.push_back(a);
-            generate(players, f, s, l + 1, r - 1, cur, nexts);
-            cur.pop_back();
-        }
-        else if (b == f || b == s) {
-            cur.push_back(b);
-            generate(players, f, s, l + 1, r - 1, cur, nexts);
-            cur.pop_back();
-        }
-        else {
-            cur.push_back(a);
-            generate(players, f, s, l + 1, r - 1, cur, nexts);
-            cur.pop_back();
-            cur.push_back(b);
-            generate(players, f, s, l + 1, r - 1, cur, nexts);
-            cur.pop_back();
-        }
-    }
-
-    string encode(const vector<int>& v) {
-        string s;
-        for (int x : v) {
-            s += to_string(x) + ",";
-        }
-        return s;
-    }
-
     vector<int> earliestAndLatest(int n, int firstPlayer, int secondPlayer) {
-        vector<int> players(n);
-        iota(players.begin(), players.end(), 1);
-        memo.clear();
-        auto [mn, mx] = dfs(players, firstPlayer, secondPlayer, 1);
-        return {mn, mx};
+        int left = min(firstPlayer, secondPlayer);
+        int right = max(firstPlayer, secondPlayer);
+
+        // If they are mirror positions — they meet in first round
+        if (left + right == n + 1) {
+            return {1, 1};
+        }
+
+        // For base cases
+        if (n == 3 || n == 4) {
+            return {2, 2};
+        }
+
+        // Mirror for symmetry if closer to right
+        if (left - 1 > n - right) {
+            int temp = n + 1 - left;
+            left = n + 1 - right;
+            right = temp;
+        }
+
+        int nextRound = (n + 1) / 2;
+        int minRound = n, maxRound = 1;
+
+        if (right * 2 <= n + 1) {
+            // Case 1: Players are both in the left half
+            int preLeft = left - 1;
+            int midGap = right - left - 1;
+
+            for (int i = 0; i <= preLeft; ++i) {
+                for (int j = 0; j <= midGap; ++j) {
+                    auto res = earliestAndLatest(nextRound, i + 1, i + j + 2);
+                    minRound = min(minRound, 1 + res[0]);
+                    maxRound = max(maxRound, 1 + res[1]);
+                }
+            }
+        } else {
+            // Case 2: Players are in opposite halves
+            int mirrored = n + 1 - right;
+            int preLeft = left - 1;
+            int midGap = mirrored - left - 1;
+            int innerGap = right - mirrored - 1;
+
+            for (int i = 0; i <= preLeft; ++i) {
+                for (int j = 0; j <= midGap; ++j) {
+                    int pos1 = i + 1;
+                    int pos2 = i + j + 1 + (innerGap + 1) / 2 + 1;
+                    auto res = earliestAndLatest(nextRound, pos1, pos2);
+                    minRound = min(minRound, 1 + res[0]);
+                    maxRound = max(maxRound, 1 + res[1]);
+                }
+            }
+        }
+
+        return {minRound, maxRound};
     }
 };
