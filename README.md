@@ -100,4 +100,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/0114-flatten-binary-tree-to-linked-list) |
+## Dynamic Programming
+|  |
+| ------- |
+| [2028-the-earliest-and-latest-rounds-where-players-compete](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/2028-the-earliest-and-latest-rounds-where-players-compete) |
+## Memoization
+|  |
+| ------- |
+| [2028-the-earliest-and-latest-rounds-where-players-compete](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/2028-the-earliest-and-latest-rounds-where-players-compete) |
 <!---LeetCode Topics End-->
