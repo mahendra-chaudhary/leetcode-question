@@ -127,4 +127,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0257-binary-tree-paths](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/0257-binary-tree-paths) |
+## Database
+|  |
+| ------- |
+| [0182-duplicate-emails](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/0182-duplicate-emails) |
 <!---LeetCode Topics End-->
