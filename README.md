@@ -104,16 +104,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0257-binary-tree-paths](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/0257-binary-tree-paths) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0257-binary-tree-paths](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/0257-binary-tree-paths) |
 ## Binary Tree
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0257-binary-tree-paths](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/0257-binary-tree-paths) |
 ## Dynamic Programming
@@ -137,4 +140,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0182-duplicate-emails](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/0182-duplicate-emails) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/0104-maximum-depth-of-binary-tree) |
 <!---LeetCode Topics End-->
