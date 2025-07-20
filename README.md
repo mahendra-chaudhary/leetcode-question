@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/0125-valid-palindrome) |
 | [0257-binary-tree-paths](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/0257-binary-tree-paths) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [2079-delete-duplicate-folders-in-system](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/2079-delete-duplicate-folders-in-system) |
 | [3396-valid-word](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/3396-valid-word) |
 | [3617-find-the-original-typed-string-i](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/3617-find-the-original-typed-string-i) |
 ## Math
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/0035-search-insert-position) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
+| [2079-delete-duplicate-folders-in-system](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [2479-meeting-rooms-iii](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/2479-meeting-rooms-iii) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/2497-maximum-matching-of-players-with-trainers) |
@@ -93,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [2079-delete-duplicate-folders-in-system](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2479-meeting-rooms-iii](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/2479-meeting-rooms-iii) |
 ## Linked List
 |  |
@@ -156,4 +159,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [2079-delete-duplicate-folders-in-system](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/2079-delete-duplicate-folders-in-system) |
+## Hash Function
+|  |
+| ------- |
+| [2079-delete-duplicate-folders-in-system](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/2079-delete-duplicate-folders-in-system) |
 <!---LeetCode Topics End-->
