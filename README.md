@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/0009-palindrome-number) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
+| [2083-three-divisors](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/2083-three-divisors) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 ## Bit Manipulation
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [2083-three-divisors](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/2083-three-divisors) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 ## Stack
 |  |
@@ -165,4 +167,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2079-delete-duplicate-folders-in-system](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/2079-delete-duplicate-folders-in-system) |
+## Number Theory
+|  |
+| ------- |
+| [2083-three-divisors](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/2083-three-divisors) |
 <!---LeetCode Topics End-->
