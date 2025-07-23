@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/0257-binary-tree-paths) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [1818-maximum-score-from-removing-substrings](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/2079-delete-duplicate-folders-in-system) |
 | [3396-valid-word](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/3396-valid-word) |
 | [3617-find-the-original-typed-string-i](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/3617-find-the-original-typed-string-i) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
+| [1818-maximum-score-from-removing-substrings](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
@@ -85,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0143-reorder-list](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/0143-reorder-list) |
 | [0937-online-stock-span](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/0937-online-stock-span) |
+| [1818-maximum-score-from-removing-substrings](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/1818-maximum-score-from-removing-substrings) |
 ## Design
 |  |
 | ------- |
