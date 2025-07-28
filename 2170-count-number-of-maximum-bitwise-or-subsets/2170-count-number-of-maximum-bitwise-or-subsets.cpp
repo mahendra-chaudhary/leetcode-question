@@ -14,13 +14,17 @@ public:
     }
 
     int countMaxOrSubsets(vector<int>& nums) {
-      for(int num : nums){
-        maxor |= num;
-      }
+       vector<int> dp(1 << 17, 0);
+        dp[0] = 1;
+        int maxOr = 0;
 
-      dfs(nums,0,0);
+        for (int num : nums) {
+            for (int i = maxOr; i >= 0; --i) {
+                dp[i | num] += dp[i];
+            }
+            maxOr |= num;
+        }
 
-      return count;
-        
+        return dp[maxOr];
     }
 };
