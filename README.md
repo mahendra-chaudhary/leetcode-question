@@ -139,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0257-binary-tree-paths](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/0257-binary-tree-paths) |
+| [0450-delete-node-in-a-bst](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/0450-delete-node-in-a-bst) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 ## Depth-First Search
 |  |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0257-binary-tree-paths](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/0257-binary-tree-paths) |
+| [0450-delete-node-in-a-bst](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/0450-delete-node-in-a-bst) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -206,4 +208,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0450-delete-node-in-a-bst](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/0450-delete-node-in-a-bst) |
 <!---LeetCode Topics End-->
