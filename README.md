@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/0009-palindrome-number) |
 | [0231-power-of-two](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/0231-power-of-two) |
 | [0826-soup-servings](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/0826-soup-servings) |
+| [0900-reordered-power-of-2](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/0900-reordered-power-of-2) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [2083-three-divisors](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/2083-three-divisors) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/3600-find-the-k-th-character-in-string-game-i) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0900-reordered-power-of-2](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/0900-reordered-power-of-2) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [2479-meeting-rooms-iii](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/2479-meeting-rooms-iii) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/2497-maximum-matching-of-players-with-trainers) |
@@ -114,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [0900-reordered-power-of-2](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/0900-reordered-power-of-2) |
 | [2083-three-divisors](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/2083-three-divisors) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
@@ -140,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0900-reordered-power-of-2](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/0900-reordered-power-of-2) |
 | [0940-fruit-into-baskets](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/0940-fruit-into-baskets) |
 | [1813-maximum-erasure-value](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/1813-maximum-erasure-value) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/2079-delete-duplicate-folders-in-system) |
@@ -264,4 +268,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0826-soup-servings](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/0826-soup-servings) |
+## Counting
+|  |
+| ------- |
+| [0900-reordered-power-of-2](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/0900-reordered-power-of-2) |
 <!---LeetCode Topics End-->
