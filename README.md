@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/0009-palindrome-number) |
 | [0231-power-of-two](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/0326-power-of-three) |
 | [0826-soup-servings](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/0826-soup-servings) |
 | [0900-reordered-power-of-2](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/0900-reordered-power-of-2) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0143-reorder-list](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/0143-reorder-list) |
 | [0231-power-of-two](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/0326-power-of-three) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 ## Simulation
