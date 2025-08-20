@@ -34,3 +34,6 @@ public:
         return result;
     }
 };
+
+//t.c O(n*n)
+//s.c O(n*n)
