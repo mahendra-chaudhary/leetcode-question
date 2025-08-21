@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
+| [1628-count-submatrices-with-all-ones](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/1628-count-submatrices-with-all-ones) |
 | [1813-maximum-erasure-value](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/1813-maximum-erasure-value) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0143-reorder-list](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/0143-reorder-list) |
 | [0937-online-stock-span](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/0937-online-stock-span) |
+| [1628-count-submatrices-with-all-ones](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/1628-count-submatrices-with-all-ones) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/1818-maximum-score-from-removing-substrings) |
 ## Design
 |  |
@@ -154,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0937-online-stock-span](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/0937-online-stock-span) |
+| [1628-count-submatrices-with-all-ones](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/1628-count-submatrices-with-all-ones) |
 ## Data Stream
 |  |
 | ------- |
@@ -212,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0867-new-21-game](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/0867-new-21-game) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [1628-count-submatrices-with-all-ones](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/1628-count-submatrices-with-all-ones) |
 | [2028-the-earliest-and-latest-rounds-where-players-compete](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/2028-the-earliest-and-latest-rounds-where-players-compete) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [2882-ways-to-express-an-integer-as-sum-of-powers](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/2882-ways-to-express-an-integer-as-sum-of-powers) |
@@ -288,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [1628-count-submatrices-with-all-ones](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/1628-count-submatrices-with-all-ones) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 ## Probability and Statistics
 |  |
