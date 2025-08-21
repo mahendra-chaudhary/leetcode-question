@@ -13,12 +13,17 @@ public:
     ListNode* reverseList(ListNode* head) {
 
 
-        if(head == NULL ||head->next == NULL) return head;
+    ListNode* prev = NULL;
+    ListNode* curr = head;
+    ListNode* nextNode = NULL;
 
-        ListNode* last = reverseList(head->next);
-         head->next->next = head;
-         head->next = NULL;
-        
-    return last;
+    while (curr != NULL) {
+        nextNode = curr->next; // अगला node याद रखो
+        curr->next = prev;     // link को उल्टा कर दो
+        prev = curr;           // prev को आगे बढ़ाओ
+        curr = nextNode;       // curr को आगे बढ़ाओ
+    }
+
+    return prev; 
     }
 };
