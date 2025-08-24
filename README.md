@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/0148-sort-list) |
 | [0900-reordered-power-of-2](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/0900-reordered-power-of-2) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [2479-meeting-rooms-iii](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/2479-meeting-rooms-iii) |
@@ -185,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0023-merge-k-sorted-lists](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/0023-merge-k-sorted-lists) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0143-reorder-list](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/0143-reorder-list) |
+| [0148-sort-list](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/0148-sort-list) |
 | [0206-reverse-linked-list](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/0206-reverse-linked-list) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 ## Two Pointers
@@ -192,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0125-valid-palindrome](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/0125-valid-palindrome) |
 | [0143-reorder-list](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/0143-reorder-list) |
+| [0148-sort-list](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/0148-sort-list) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/2497-maximum-matching-of-players-with-trainers) |
 ## Tree
 |  |
@@ -318,8 +321,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/0023-merge-k-sorted-lists) |
+| [0148-sort-list](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/0148-sort-list) |
 ## Merge Sort
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/0023-merge-k-sorted-lists) |
+| [0148-sort-list](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
