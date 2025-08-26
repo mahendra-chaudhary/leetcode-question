@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/0035-search-insert-position) |
 | [0046-permutations](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/0046-permutations) |
 | [0118-pascals-triangle](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/0118-pascals-triangle) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0679-24-game](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/0679-24-game) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0940-fruit-into-baskets](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/0940-fruit-into-baskets) |
@@ -226,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0118-pascals-triangle](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/0118-pascals-triangle) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0826-soup-servings](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/0826-soup-servings) |
 | [0867-new-21-game](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/0867-new-21-game) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/0934-bitwise-ors-of-subarrays) |
