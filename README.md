@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/0001-two-sum) |
 | [0035-search-insert-position](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/0035-search-insert-position) |
 | [0046-permutations](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/0046-permutations) |
+| [0074-search-a-2d-matrix](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/0074-search-a-2d-matrix) |
 | [0118-pascals-triangle](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0217-contains-duplicate](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/0217-contains-duplicate) |
@@ -258,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/0035-search-insert-position) |
+| [0074-search-a-2d-matrix](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/0240-search-a-2d-matrix-ii) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
@@ -321,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/0240-search-a-2d-matrix-ii) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1628-count-submatrices-with-all-ones](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/1628-count-submatrices-with-all-ones) |
