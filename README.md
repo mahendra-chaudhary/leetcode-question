@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1628-count-submatrices-with-all-ones](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/1628-count-submatrices-with-all-ones) |
+| [1646-kth-missing-positive-number](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/1646-kth-missing-positive-number) |
 | [1813-maximum-erasure-value](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/1813-maximum-erasure-value) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
@@ -261,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/0035-search-insert-position) |
 | [0074-search-a-2d-matrix](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/0240-search-a-2d-matrix-ii) |
+| [1646-kth-missing-positive-number](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/1646-kth-missing-positive-number) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [3790-fruits-into-baskets-ii](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/3790-fruits-into-baskets-ii) |
