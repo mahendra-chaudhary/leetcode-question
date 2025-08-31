@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/0001-two-sum) |
 | [0035-search-insert-position](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/0037-sudoku-solver) |
 | [0046-permutations](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/0046-permutations) |
 | [0074-search-a-2d-matrix](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/0074-search-a-2d-matrix) |
 | [0118-pascals-triangle](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/0118-pascals-triangle) |
@@ -189,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/0001-two-sum) |
 | [0036-valid-sudoku](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/0037-sudoku-solver) |
 | [0217-contains-duplicate](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/0217-contains-duplicate) |
 | [0900-reordered-power-of-2](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/0900-reordered-power-of-2) |
 | [0940-fruit-into-baskets](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/0940-fruit-into-baskets) |
@@ -275,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/0037-sudoku-solver) |
 | [0046-permutations](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/0046-permutations) |
 | [0257-binary-tree-paths](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/0257-binary-tree-paths) |
 | [0679-24-game](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/0679-24-game) |
@@ -332,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/0037-sudoku-solver) |
 | [0074-search-a-2d-matrix](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/0240-search-a-2d-matrix-ii) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/1402-count-square-submatrices-with-all-ones) |
