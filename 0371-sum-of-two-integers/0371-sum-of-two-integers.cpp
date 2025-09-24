@@ -1,11 +1,17 @@
 class Solution {
 public:
     int getSum(int a, int b) {
-        int c = 0;
+       while(b != 0){
+        int sum = a^b;   // firstly use XOR 
+        int carry = (a&b)<<1;// SECOND USE OF AND 
+        a = sum; // reprocess of th after
+        b = carry;
 
-        c = a+b;
+       }
 
-        return c;
+        return a;
+
+       
         
     }
 };
