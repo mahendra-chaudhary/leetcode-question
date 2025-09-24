@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/0342-power-of-four) |
+| [0371-sum-of-two-integers](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/0371-sum-of-two-integers) |
 | [0679-24-game](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/0679-24-game) |
 | [0826-soup-servings](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/0826-soup-servings) |
 | [0867-new-21-game](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/0867-new-21-game) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0231-power-of-two](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/0342-power-of-four) |
+| [0371-sum-of-two-integers](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/0371-sum-of-two-integers) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/0934-bitwise-ors-of-subarrays) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/2400-minimum-score-after-removals-on-a-tree) |
