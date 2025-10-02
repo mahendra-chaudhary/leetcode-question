@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/0151-reverse-words-in-a-string) |
 | [0257-binary-tree-paths](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/0257-binary-tree-paths) |
+| [0443-string-compression](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/0443-string-compression) |
 | [1078-remove-outermost-parentheses](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/1078-remove-outermost-parentheses) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/1350-remove-sub-folders-from-the-filesystem) |
@@ -253,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/0151-reverse-words-in-a-string) |
+| [0443-string-compression](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/0443-string-compression) |
 | [2481-strictly-palindromic-number](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/2481-strictly-palindromic-number) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/2497-maximum-matching-of-players-with-trainers) |
 ## Tree
