@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1818-maximum-score-from-removing-substrings](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/2346-largest-3-same-digit-number-in-string) |
+| [2816-lexicographically-smallest-palindrome](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/2816-lexicographically-smallest-palindrome) |
 | [3396-valid-word](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/3396-valid-word) |
 | [3617-find-the-original-typed-string-i](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/3617-find-the-original-typed-string-i) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/3872-find-most-frequent-vowel-and-consonant) |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1917-maximum-average-pass-ratio](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/1917-maximum-average-pass-ratio) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2689-rearranging-fruits](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/2689-rearranging-fruits) |
+| [2816-lexicographically-smallest-palindrome](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/2816-lexicographically-smallest-palindrome) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
@@ -257,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0443-string-compression](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/0443-string-compression) |
 | [2481-strictly-palindromic-number](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/2481-strictly-palindromic-number) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/2497-maximum-matching-of-players-with-trainers) |
+| [2816-lexicographically-smallest-palindrome](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/2816-lexicographically-smallest-palindrome) |
 ## Tree
 |  |
 | ------- |
