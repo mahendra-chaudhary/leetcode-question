@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0013-roman-to-integer](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/0151-reverse-words-in-a-string) |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/0013-roman-to-integer) |
 | [0231-power-of-two](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/0342-power-of-four) |
@@ -232,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0013-roman-to-integer](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/0013-roman-to-integer) |
 | [0036-valid-sudoku](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/0037-sudoku-solver) |
 | [0217-contains-duplicate](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/0217-contains-duplicate) |
