@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/0013-roman-to-integer) |
+| [0070-climbing-stairs](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/0342-power-of-four) |
@@ -299,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0826-soup-servings](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/0826-soup-servings) |
@@ -318,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/0070-climbing-stairs) |
 | [2028-the-earliest-and-latest-rounds-where-players-compete](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/2028-the-earliest-and-latest-rounds-where-players-compete) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 ## Binary Search
