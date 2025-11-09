@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/0037-sudoku-solver) |
 | [0046-permutations](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/0046-permutations) |
+| [0055-jump-game](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/0055-jump-game) |
 | [0074-search-a-2d-matrix](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0118-pascals-triangle](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/0118-pascals-triangle) |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/0055-jump-game) |
 | [0409-longest-palindrome](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/0409-longest-palindrome) |
 | [1448-maximum-69-number](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/1448-maximum-69-number) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
@@ -307,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/0121-best-time-to-buy-and-sell-stock) |
