@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
+| [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3830-find-closest-person](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/3830-find-closest-person) |
 ## Bit Manipulation
 |  |
