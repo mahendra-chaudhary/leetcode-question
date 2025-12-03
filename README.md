@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/0238-product-of-array-except-self) |
 | [0240-search-a-2d-matrix-ii](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/0240-search-a-2d-matrix-ii) |
+| [0410-split-array-largest-sum](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/0410-split-array-largest-sum) |
 | [0679-24-game](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/0679-24-game) |
 | [0909-stone-game](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/0909-stone-game) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/0934-bitwise-ors-of-subarrays) |
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0055-jump-game](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/0055-jump-game) |
 | [0409-longest-palindrome](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/0409-longest-palindrome) |
+| [0410-split-array-largest-sum](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/0410-split-array-largest-sum) |
 | [1448-maximum-69-number](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/1448-maximum-69-number) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/1818-maximum-score-from-removing-substrings) |
@@ -318,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0410-split-array-largest-sum](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/0410-split-array-largest-sum) |
 | [0826-soup-servings](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/0826-soup-servings) |
 | [0867-new-21-game](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/0867-new-21-game) |
 | [0909-stone-game](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/0909-stone-game) |
@@ -349,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/0162-find-peak-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/0240-search-a-2d-matrix-ii) |
+| [0410-split-array-largest-sum](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/0410-split-array-largest-sum) |
 | [1646-kth-missing-positive-number](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/1646-kth-missing-positive-number) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
@@ -395,6 +399,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/0238-product-of-array-except-self) |
+| [0410-split-array-largest-sum](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/0410-split-array-largest-sum) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2529-range-product-queries-of-powers](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/2529-range-product-queries-of-powers) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
