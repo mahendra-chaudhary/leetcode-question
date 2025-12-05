@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3279-alice-and-bob-playing-flower-game](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/3279-alice-and-bob-playing-flower-game) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
@@ -415,6 +417,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/0410-split-array-largest-sum) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2529-range-product-queries-of-powers](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/2529-range-product-queries-of-powers) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 ## Binary Search Tree
 |  |
