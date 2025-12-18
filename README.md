@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/0037-sudoku-solver) |
 | [0046-permutations](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/0046-permutations) |
+| [0053-maximum-subarray](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/0055-jump-game) |
 | [0074-search-a-2d-matrix](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -364,6 +365,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/0118-pascals-triangle) |
@@ -504,6 +506,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/0023-merge-k-sorted-lists) |
+| [0053-maximum-subarray](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/0053-maximum-subarray) |
 | [0148-sort-list](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/0148-sort-list) |
 | [0240-search-a-2d-matrix-ii](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/0240-search-a-2d-matrix-ii) |
 ## Merge Sort
