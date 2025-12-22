@@ -12,28 +12,47 @@ class Solution {
 public:
     ListNode* insertionSortList(ListNode* head) {
 
-        ListNode* newHead = nullptr;
 
-        while (head) {
-            ListNode* temp = head;
-            head = head->next;
-            temp->next = nullptr;
+        ListNode* dummy = new ListNode(1000);
 
-            // case 1: empty sorted list OR insert at beginning
-            if (!newHead || temp->val <= newHead->val) {
-                temp->next = newHead;
-                newHead = temp;
-            }
-            else {
-                // find correct position
-                ListNode* curr = newHead;
-                while (curr->next && curr->next->val < temp->val) {
-                    curr = curr->next;
-                }
-                temp->next = curr->next;
-                curr->next = temp;
-            }
+        while(head){
+            ListNode* next = head->next;
+            ListNode* temp = dummy ;
+
+
+
+        while(temp->next && temp->next->val < head->val){
+            temp = temp->next;
         }
-        return newHead;
+            head->next = temp->next;
+            temp->next = head;
+            head = next;
+
+
+        }
+
+        return dummy->next;
+
+        // while (head) {
+        //     ListNode* temp = head;
+        //     head = head->next;
+        //     temp->next = nullptr;
+
+        //     // case 1: empty sorted list OR insert at beginning
+        //     if (!newHead || temp->val <= newHead->val) {
+        //         temp->next = newHead;
+        //         newHead = temp;
+        //     }
+        //     else {
+        //         // find correct position
+        //         ListNode* curr = newHead;
+        //         while (curr->next && curr->next->val < temp->val) {
+        //             curr = curr->next;
+        //         }
+        //         temp->next = curr->next;
+        //         curr->next = temp;
+        //     }
+        // }
+        // return newHead;
     }
 };
