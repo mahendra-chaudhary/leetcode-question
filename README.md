@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/0046-permutations) |
 | [0053-maximum-subarray](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/0055-jump-game) |
+| [0056-merge-intervals](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/0056-merge-intervals) |
 | [0074-search-a-2d-matrix](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0118-pascals-triangle](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/0118-pascals-triangle) |
@@ -184,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/0056-merge-intervals) |
 | [0147-insertion-sort-list](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/0147-insertion-sort-list) |
 | [0148-sort-list](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/0148-sort-list) |
 | [0164-maximum-gap](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/0164-maximum-gap) |
