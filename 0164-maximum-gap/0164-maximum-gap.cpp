@@ -4,9 +4,9 @@ public:
 
         int n = nums.size();
 
-        int maxi = INT_MIN ;
+        int maxi = 0 ;
 
-        if(nums[0] == 10) return 0;
+        // if(nums[0] == 10) return 0;
 
         
 
