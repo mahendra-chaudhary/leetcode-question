@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/0371-sum-of-two-integers) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0118-pascals-triangle](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0136-single-number](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/0162-find-peak-element) |
 | [0164-maximum-gap](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/0164-maximum-gap) |
