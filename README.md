@@ -296,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0023-merge-k-sorted-lists](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/0023-merge-k-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/0024-swap-nodes-in-pairs) |
 | [0061-rotate-list](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/0061-rotate-list) |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0141-linked-list-cycle](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/0143-reorder-list) |
@@ -311,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/0027-remove-element) |
 | [0061-rotate-list](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/0061-rotate-list) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0125-valid-palindrome](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/0143-reorder-list) |
