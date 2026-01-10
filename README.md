@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/0020-valid-parentheses) |
+| [0067-add-binary](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/0242-valid-anagram) |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/0013-roman-to-integer) |
+| [0067-add-binary](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/0326-power-of-three) |
@@ -57,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/0342-power-of-four) |
@@ -88,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/0067-add-binary) |
 | [1441-build-an-array-with-stack-operations](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/1441-build-an-array-with-stack-operations) |
 | [2479-meeting-rooms-iii](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/2479-meeting-rooms-iii) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/3600-find-the-k-th-character-in-string-game-i) |
