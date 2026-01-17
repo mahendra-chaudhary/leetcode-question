@@ -174,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 | [3790-fruits-into-baskets-ii](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/3791-fruits-into-baskets-iii) |
+| [3804-number-of-centered-subarrays](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/3804-number-of-centered-subarrays) |
 ## Greedy
 |  |
 | ------- |
@@ -245,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3745-maximize-expression-of-three-elements](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/3745-maximize-expression-of-three-elements) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
+| [3804-number-of-centered-subarrays](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/3804-number-of-centered-subarrays) |
 ## Stack
 |  |
 | ------- |
@@ -296,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2479-meeting-rooms-iii](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/2479-meeting-rooms-iii) |
 | [2689-rearranging-fruits](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/2689-rearranging-fruits) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
+| [3804-number-of-centered-subarrays](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/3804-number-of-centered-subarrays) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Linked List
 |  |
