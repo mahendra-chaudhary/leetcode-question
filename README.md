@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/0257-binary-tree-paths) |
 | [0316-remove-duplicate-letters](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/0316-remove-duplicate-letters) |
+| [0392-is-subsequence](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/0392-is-subsequence) |
 | [0409-longest-palindrome](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/0409-longest-palindrome) |
 | [0443-string-compression](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/0443-string-compression) |
 | [1078-remove-outermost-parentheses](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/1078-remove-outermost-parentheses) |
@@ -331,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/0151-reverse-words-in-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/0349-intersection-of-two-arrays) |
+| [0392-is-subsequence](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/0443-string-compression) |
 | [0905-sort-array-by-parity](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/0905-sort-array-by-parity) |
 | [2481-strictly-palindromic-number](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/2481-strictly-palindromic-number) |
@@ -405,6 +407,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0392-is-subsequence](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/0392-is-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/0410-split-array-largest-sum) |
 | [0826-soup-servings](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/0826-soup-servings) |
 | [0867-new-21-game](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/0867-new-21-game) |
