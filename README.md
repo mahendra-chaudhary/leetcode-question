@@ -125,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/0238-product-of-array-except-self) |
 | [0240-search-a-2d-matrix-ii](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/0240-search-a-2d-matrix-ii) |
+| [0283-move-zeroes](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/0349-intersection-of-two-arrays) |
 | [0410-split-array-largest-sum](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/0410-split-array-largest-sum) |
 | [0679-24-game](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/0679-24-game) |
@@ -332,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/0151-reverse-words-in-a-string) |
+| [0283-move-zeroes](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/0349-intersection-of-two-arrays) |
 | [0392-is-subsequence](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/0443-string-compression) |
