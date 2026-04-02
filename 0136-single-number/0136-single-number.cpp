@@ -1,24 +1,18 @@
 class Solution {
 public:
     int singleNumber(vector<int>& nums) {
-
-        // int ans = 0;
-
-        // for(int n:nums){
-        //    ans ^= n;
-        // }
-
-        // return ans;
         int n = nums.size();
+
+        int ans = 0;
+
+
+        for(int x : nums){
+
+            ans ^= x;
+        } 
+        return ans;
+
+
         
-        sort(nums.begin(),nums.end());
-        for(int i =0;i<n;i+=2){
-            if( i == n-1 ||nums[i] != nums[i+1]){
-                return nums[i];
-            }
-
-
-        }
-        return -1;
     }
 };
