@@ -1,26 +1,26 @@
 class Solution {
 public:
     int lengthOfLongestSubstring(string s) {
-    // i can use stoi because strring to array convert
-    int maxlength  =  0;
-    int left = 0;
-    int n = s.length();
-     
-     vector<int> lastIdx(256,-1);
+        int n = s.size();
 
-     for(int i = 0;i<n;i++){
-        if(lastIdx[s[i]] >= left){
-            left = lastIdx[s[i]] +1;
+        unordered_map<char,int>mp;
+        int left = 0 ;
+        int ans = 0;
+
+        for(int right = 0;right<n;right++){
+            if(mp.count(s[right]) && mp[s[right]] >= left){
+                left = mp[s[right]] + 1;
+
+            }
+
+            mp[s[right]] = right;
+
+            ans =  max(ans,right-left+1);
+
+
 
         }
-        lastIdx[s[i]] = i;
-        maxlength = max(maxlength,i - left + 1);
-     }
-     return maxlength;
 
-
-
-
-
+        return ans;
     }
 };
