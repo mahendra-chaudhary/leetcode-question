@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/0074-search-a-2d-matrix) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0088-merge-sorted-array](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/0136-single-number) |
@@ -207,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/0056-merge-intervals) |
+| [0088-merge-sorted-array](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/0088-merge-sorted-array) |
 | [0147-insertion-sort-list](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/0147-insertion-sort-list) |
 | [0148-sort-list](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/0148-sort-list) |
 | [0164-maximum-gap](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/0164-maximum-gap) |
@@ -336,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0061-rotate-list](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/0061-rotate-list) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
+| [0088-merge-sorted-array](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/0143-reorder-list) |
