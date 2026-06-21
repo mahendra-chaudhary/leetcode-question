@@ -137,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/0410-split-array-largest-sum) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0485-max-consecutive-ones](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/0485-max-consecutive-ones) |
+| [0560-subarray-sum-equals-k](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/0560-subarray-sum-equals-k) |
 | [0679-24-game](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/0679-24-game) |
 | [0905-sort-array-by-parity](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/0905-sort-array-by-parity) |
 | [0909-stone-game](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/0909-stone-game) |
@@ -305,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/0349-intersection-of-two-arrays) |
 | [0409-longest-palindrome](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/0409-longest-palindrome) |
+| [0560-subarray-sum-equals-k](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/0560-subarray-sum-equals-k) |
 | [0900-reordered-power-of-2](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/0900-reordered-power-of-2) |
 | [0940-fruit-into-baskets](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/0940-fruit-into-baskets) |
 | [1813-maximum-erasure-value](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/1813-maximum-erasure-value) |
@@ -516,6 +518,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/0238-product-of-array-except-self) |
 | [0410-split-array-largest-sum](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/0410-split-array-largest-sum) |
+| [0560-subarray-sum-equals-k](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/0560-subarray-sum-equals-k) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2529-range-product-queries-of-powers](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/2529-range-product-queries-of-powers) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/3432-count-partitions-with-even-sum-difference) |
