@@ -141,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/0560-subarray-sum-equals-k) |
 | [0679-24-game](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/0679-24-game) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0905-sort-array-by-parity](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/0905-sort-array-by-parity) |
 | [0909-stone-game](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/0909-stone-game) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/0934-bitwise-ors-of-subarrays) |
@@ -465,6 +466,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/0349-intersection-of-two-arrays) |
 | [0410-split-array-largest-sum](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/0410-split-array-largest-sum) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1646-kth-missing-positive-number](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/1646-kth-missing-positive-number) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
