@@ -382,6 +382,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/0226-invert-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/0257-binary-tree-paths) |
+| [0404-sum-of-left-leaves](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/0404-sum-of-left-leaves) |
 | [0450-delete-node-in-a-bst](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/0450-delete-node-in-a-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/0783-search-in-a-binary-search-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
@@ -401,6 +402,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/0226-invert-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/0257-binary-tree-paths) |
+| [0404-sum-of-left-leaves](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/0404-sum-of-left-leaves) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/2400-minimum-score-after-removals-on-a-tree) |
@@ -422,6 +424,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/0226-invert-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/0257-binary-tree-paths) |
+| [0404-sum-of-left-leaves](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/0404-sum-of-left-leaves) |
 | [0450-delete-node-in-a-bst](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/0450-delete-node-in-a-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/0783-search-in-a-binary-search-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
@@ -501,6 +504,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0199-binary-tree-right-side-view](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/0226-invert-binary-tree) |
+| [0404-sum-of-left-leaves](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/0404-sum-of-left-leaves) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 ## Trie
 |  |
