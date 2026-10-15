@@ -139,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/0410-split-array-largest-sum) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0485-max-consecutive-ones](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/0485-max-consecutive-ones) |
+| [0496-next-greater-element-i](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/0496-next-greater-element-i) |
 | [0540-single-element-in-a-sorted-array](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/0560-subarray-sum-equals-k) |
 | [0679-24-game](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/0679-24-game) |
@@ -277,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/0145-binary-tree-postorder-traversal) |
 | [0316-remove-duplicate-letters](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/0316-remove-duplicate-letters) |
+| [0496-next-greater-element-i](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/0496-next-greater-element-i) |
 | [0937-online-stock-span](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/0937-online-stock-span) |
 | [1078-remove-outermost-parentheses](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/1078-remove-outermost-parentheses) |
 | [1441-build-an-array-with-stack-operations](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/1441-build-an-array-with-stack-operations) |
@@ -292,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/0316-remove-duplicate-letters) |
+| [0496-next-greater-element-i](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/0496-next-greater-element-i) |
 | [0937-online-stock-span](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/0937-online-stock-span) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1628-count-submatrices-with-all-ones](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/1628-count-submatrices-with-all-ones) |
@@ -312,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/0349-intersection-of-two-arrays) |
 | [0409-longest-palindrome](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/0409-longest-palindrome) |
+| [0496-next-greater-element-i](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/0560-subarray-sum-equals-k) |
 | [0900-reordered-power-of-2](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/0900-reordered-power-of-2) |
 | [0940-fruit-into-baskets](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/0940-fruit-into-baskets) |
