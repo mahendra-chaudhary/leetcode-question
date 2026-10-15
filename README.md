@@ -172,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2529-range-product-queries-of-powers](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/2529-range-product-queries-of-powers) |
 | [2689-rearranging-fruits](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/2689-rearranging-fruits) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
@@ -318,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2079-delete-duplicate-folders-in-system](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2479-meeting-rooms-iii](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/2479-meeting-rooms-iii) |
 | [2689-rearranging-fruits](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/2689-rearranging-fruits) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3804-number-of-centered-subarrays](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/3804-number-of-centered-subarrays) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/3872-find-most-frequent-vowel-and-consonant) |
@@ -523,6 +525,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Segment Tree
 |  |
 | ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 | [3790-fruits-into-baskets-ii](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/3791-fruits-into-baskets-iii) |
@@ -606,4 +609,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/0164-maximum-gap) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 <!---LeetCode Topics End-->
