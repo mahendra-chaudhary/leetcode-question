@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/0067-add-binary) |
+| [0495-teemo-attacking](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/0495-teemo-attacking) |
 | [1441-build-an-array-with-stack-operations](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/1441-build-an-array-with-stack-operations) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2479-meeting-rooms-iii](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/2479-meeting-rooms-iii) |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/0410-split-array-largest-sum) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0485-max-consecutive-ones](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/0485-max-consecutive-ones) |
+| [0495-teemo-attacking](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/0495-teemo-attacking) |
 | [0496-next-greater-element-i](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/0496-next-greater-element-i) |
 | [0540-single-element-in-a-sorted-array](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/mahendra-chaudhary/leetcode-question/tree/master/0560-subarray-sum-equals-k) |
